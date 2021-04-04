@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on MONEY AND PROGRESS
 - 📫 How to reach me NO IM FINE, THANKS! But if you like... just dont try 
-- 
+---
 ### Github Stats:
 
   <img align="center" alt="Sandro1671's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sandro1671&show_icons=true&hide_border=true"/>
