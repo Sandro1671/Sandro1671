@@ -6,6 +6,7 @@
 ### Github Stats:
 
   <img align="center" alt="Sandro1671's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sandro1671&show_icons=true&hide_border=true"/>
+  <img align="center" alt="Sandro1671's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sandro1671&show_icons=true&theme=dark"/>
   <img align="center" alt="Sandro1671's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandro1671&layout=compact" />
 
 <!---
