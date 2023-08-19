@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sandro1671
-- 🌱 I’m currently learning c#, react, database structures
+- 🌱 I’m currently learning c#, react, database structures & Azure
 - ![docker (2)](https://user-images.githubusercontent.com/80784868/172451308-7652a176-984d-46b5-a9c1-684a8d89ef13.gif) Working with docker 
 
 
